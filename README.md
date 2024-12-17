@@ -7,3 +7,6 @@
 
 This is the official implementation of our AAAI2025 paper: FlowPolicy: Enabling Fast and Robust 3D Flow-based Policy via Consistency Flow Matching for Robot Manipulation.
 
+## News
+* **2024.12.17** The final version of our paper is now available on [arXiv](https://arxiv.org/abs/2412.04987).
+* **2024.12.10** Our paper has been accepted by AAAI 2025.
