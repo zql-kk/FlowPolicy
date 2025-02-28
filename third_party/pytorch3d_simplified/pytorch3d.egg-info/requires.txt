@@ -1,0 +1,12 @@
+fvcore
+iopath
+
+[all]
+matplotlib
+tqdm>4.29.0
+imageio
+ipywidgets
+
+[dev]
+flake8
+usort
